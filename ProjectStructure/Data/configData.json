@@ -1,0 +1,7 @@
+{
+  "name": "Qa-Automation-Engineer",
+  "password": "AutomationEngineerPassword",
+  "browser": "Chrome",
+  "url": "https://store.steampowered.com/",
+  "waitTimeOut": 15
+}
