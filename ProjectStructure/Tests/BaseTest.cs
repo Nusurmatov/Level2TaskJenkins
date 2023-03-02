@@ -16,7 +16,7 @@ namespace ProjectStructure.Tests
             Console.WriteLine($"User Name: {user.Name}");
             Console.WriteLine($"Running on {user.Browser}");
 
-            steamMainPage = new SteamMainPage(user.WaitTimeOut);
+            steamMainPage = new SteamMainPage();
             Singleton.Driver().Navigate().GoToUrl(user.Url);
             Singleton.Driver().Manage().Window.Maximize();
         }
