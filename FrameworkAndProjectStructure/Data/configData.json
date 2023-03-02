@@ -1,0 +1,6 @@
+{
+  "name": "Qa-Automation-Engineer",
+  "browser": "Firefox",
+  "url": "https://demoqa.com/",
+  "waitTimeOut": 15
+}
