@@ -1,12 +1,17 @@
 using FrameworkAndProjectStructure.Forms;
 using FrameworkAndProjectStructure.Utility;
+using NUnit.Allure.Attributes;
+using NUnit.Allure.Core;
 using NUnit.Framework;
 
 namespace FrameworkAndProjectStructure.Tests
 {
+    [TestFixture]
+    [AllureNUnit]
+    [AllureEpic("QA Demo Website")]
     public class TableTest : BaseTest
     {
-        [Test]
+        [Test(Description = "Adding and Revoming data from a Regestration Table")]
         public void TestTables()
         {
             Assert.IsTrue(this.mainPage.IsOpen(), $"{mainPage.Name} is not open!");
