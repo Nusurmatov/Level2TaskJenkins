@@ -1,0 +1,34 @@
+User: Qa-Automation-Engineer, Browser: Firefox
+----------------------------------------------------
+
+   --->   ToolsQA Main Page is open
+Elements Card clicked
+Web Tables Button clicked
+   --->   Page with Web Tables Form is open
+Add Button clicked
+   --->   Registration Form has appeared on page
+'Jon' entered to First Name Input
+'Snow' entered to Last Name Input
+'knownothing@gmail.com' entered to Email Input
+'30' entered to Age Input
+'3000' entered to Salary Input
+'alpha' entered to Department Input
+Submit Button clicked
+   --->   Data of User 'JonSnow30knownothing@gmail.com3000alpha' has appreared in table
+Delete Button clicked
+   --->   Data of User 'JonSnow30knownothing@gmail.com3000alpha' has been deleted from table
+Add Button clicked
+   --->   Registration Form has appeared on page
+'Buttercup' entered to First Name Input
+'Cumbersnatch' entered to Last Name Input
+'BudapestCandygram@mail.io' entered to Email Input
+'41' entered to Age Input
+'2000' entered to Salary Input
+'beta' entered to Department Input
+Submit Button clicked
+   --->   Data of User 'ButtercupCumbersnatch41BudapestCandygram@mail.io2000beta' has appreared in table
+Delete Button clicked
+   --->   Data of User 'ButtercupCumbersnatch41BudapestCandygram@mail.io2000beta' has been deleted from table
+
+----------------------------------------------------
+Execution Time: 993 ms, Status: Passed

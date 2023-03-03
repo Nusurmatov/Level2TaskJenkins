@@ -1,0 +1,8 @@
+User: Qa-Automation-Engineer, Browser: Firefox
+----------------------------------------------------
+
+   --->   ToolsQA Main Page is open
+Alerts, Frames & Windows Card clicked
+
+----------------------------------------------------
+Execution Time: 959 ms, Status: Failed

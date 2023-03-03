@@ -1,0 +1,7 @@
+{
+  "name": "Qa-Automation-Engineer",
+  "password": "AutomationEngineerPassword",
+  "browser": "Firefox",
+  "url": "https://demoqa.com/",
+  "waitTimeOut": 15
+}
