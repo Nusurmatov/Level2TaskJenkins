@@ -1,0 +1,19 @@
+User: Qa-Automation-Engineer, Browser: Firefox
+----------------------------------------------------
+
+   --->   ToolsQA Main Page is open
+Alerts, Frames & Windows Card clicked
+Browser Windows Button clicked
+   --->   Page with Browser Windows Form is open
+New Tab Button clicked
+   --->   New Tab with Sample Page is open
+   --->   Page with Browser Windows Form is open
+Elements Button clicked
+Links Button clicked
+   --->   Page with LinksForm is open
+Home Link clicked
+   --->   New Tab with ToolsQA Main Page is open
+   --->   Page with LinksForm is open
+
+----------------------------------------------------
+Execution Time: 128 ms, Status: Passed

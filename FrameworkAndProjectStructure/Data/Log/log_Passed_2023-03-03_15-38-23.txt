@@ -1,0 +1,16 @@
+User: Qa-Automation-Engineer, Browser: Firefox
+----------------------------------------------------
+
+   --->   ToolsQA Main Page is open
+Alerts, Frames & Windows Card clicked
+Nested Frames Button clicked
+   --->   Page with 'Nested Frames Form' is open
+   --->   Message 'Parent frame' is present on page
+   --->   Message 'Child Iframe' is present on page
+Nested Frames Button clicked
+   --->   Page with 'Frames Form' is open
+   --->   Message from upper frame 'This is a sample page' is equal to
+		 message from lower frame 'This is a sample page'
+
+----------------------------------------------------
+Execution Time: 262 ms, Status: Passed
