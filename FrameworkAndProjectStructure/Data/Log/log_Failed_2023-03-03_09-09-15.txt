@@ -1,0 +1,19 @@
+User: Qa-Automation-Engineer, Browser: Firefox
+----------------------------------------------------
+
+   --->   ToolsQA Main Page is open
+Elements Card clicked
+Web Tables Button clicked
+   --->   Page with Web Tables Form is open
+Add Button clicked
+   --->   Registration Form has appeared on page
+'Jon' entered to First Name Input
+'Snow' entered to Last Name Input
+'knownothing@gmail.com' entered to Email Input
+'30' entered to Age Input
+'3000' entered to Salary Input
+'alpha' entered to Department Input
+Submit Button clicked
+
+----------------------------------------------------
+Execution Time: 497 ms, Status: Failed

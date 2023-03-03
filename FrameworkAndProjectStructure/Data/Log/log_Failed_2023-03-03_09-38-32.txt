@@ -1,0 +1,11 @@
+User: Qa-Automation-Engineer, Browser: Firefox
+----------------------------------------------------
+
+   --->   ToolsQA Main Page is open
+Alerts, Frames & Windows Card clicked
+Browser Windows Button clicked
+   --->   Page with Browser Windows Form is open
+New Tab Button clicked
+
+----------------------------------------------------
+Execution Time: 727 ms, Status: Failed

@@ -1,9 +1,14 @@
 using FrameworkAndProjectStructure.Forms;
 using FrameworkAndProjectStructure.Utility;
+using NUnit.Allure.Attributes;
+using NUnit.Allure.Core;
 using NUnit.Framework;
 
 namespace FrameworkAndProjectStructure.Tests
 {
+    [TestFixture]
+    [AllureNUnit]
+    [AllureEpic("QA Demo Website")]
     public class FrameTest : BaseTest
     {
         [Test]

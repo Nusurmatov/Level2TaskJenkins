@@ -1,12 +1,17 @@
 using FrameworkAndProjectStructure.Forms;
 using FrameworkAndProjectStructure.Utility;
+using NUnit.Allure.Attributes;
+using NUnit.Allure.Core;
 using NUnit.Framework;
 
 namespace FrameworkAndProjectStructure.Tests
 {
+    [TestFixture]
+    [AllureNUnit]
+    [AllureEpic("QA Demo Website")]
     public class HandleTest : BaseTest
     {
-        [Test]
+        [Test(Description = "Handling differen Allerts")]
         public void TestHandles()
         {
             Assert.IsTrue(this.mainPage.IsOpen(), $"{mainPage.Name} is not open!");

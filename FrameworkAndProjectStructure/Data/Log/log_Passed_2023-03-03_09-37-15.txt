@@ -1,0 +1,22 @@
+User: Qa-Automation-Engineer, Browser: Firefox
+----------------------------------------------------
+
+   --->   ToolsQA Main Page is open
+Alerts, Frames & Windows Card clicked
+Alerts Button clicked
+   --->   Alerts Form has appeared on on page
+Click me - Alert Button clicked
+   --->   Alert with text 'You clicked a button' is open
+OK button clicked
+Click me - Confirm Button clicked
+   --->   Alert with text 'Do you confirm action?' is open
+OK button clicked
+   --->   Text 'You selected Ok' has appeared on page
+Click me - Prompt Button clicked
+   --->   Alert with text 'Please enter your name' is open
+'9*9|2)3' entered in Alert input box
+OK button clicked
+   --->   Appeared text equals to randomly generated text: '9*9|2)3'
+
+----------------------------------------------------
+Execution Time: 505 ms, Status: Passed
